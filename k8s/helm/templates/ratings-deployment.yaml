@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: bookinfo-prd-ratings
-  namespace: student25-bookinfo-prd
+  namespace: student025-bookinfo-prd
   labels:
     app: bookinfo-prd-ratings
 spec:

@@ -1,6 +1,6 @@
 ratings:
   namespace: student025-bookinfo-uat
-  image: ghcr.io/similanklinsmith/bookinfo-ratings
+  image: ghcr.io/nattanunkorn9743/bookinfo-ratings
   tag: uat
   replicas: 1
   imagePullSecrets: registry-bookinfo
